@@ -39,4 +39,5 @@ Update this README to include your team name and team members. Don't forget to r
  print('   |   |')
  print(' ' + board[1] + ' | ' + board[2] + ' | ' + board[3])
  print('   |   |')```
+
 8. 
