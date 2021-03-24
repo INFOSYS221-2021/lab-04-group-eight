@@ -7,3 +7,5 @@ Update this README to include your team name and team members. Don't forget to r
 * Natasha Williams
 * Jen Feng William Liang
 
+1. integers, boolean , strings
+2. 
