@@ -15,4 +15,4 @@ Update this README to include your team name and team members. Don't forget to r
  letter = ''
  while not (letter == 'X' or letter == 'O'):
   print('Do you want to be X or O?')
-  letter = input().upper()
+  letter = input().upper()'''
