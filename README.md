@@ -17,6 +17,10 @@ Update this README to include your team name and team members. Don't forget to r
  while not (letter == 'X' or letter == 'O'):
   print('Do you want to be X or O?')
   letter = input().upper()
+  if letter == 'X':
+  return ['X', 'O']
+ else:
+  return ['O', 'X']
  ```
 4. if isSpaceFree(board, 5):
 5. for i in board:
