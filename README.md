@@ -40,6 +40,6 @@ Update this README to include your team name and team members. Don't forget to r
  print(' ' + board[1] + ' | ' + board[2] + ' | ' + board[3])
  print('   |   |')
  ```
-8.The program checks if the number of different combinations to be true. If any one of the combination is true. The winner is decided  or else there is a tie. It using logical functions. (And & or): if isWinner(theBoard, playerLetter):,  if isWinner(theBoard, computerLetter):
+8.The program checks if the number of different combinations to be true. If any one of the combination is true. The winner is decided  or else there is a tie. It using logical functions. (And & or): if isWinner(theBoard, playerLetter):,  if isWinner(theBoard, computerLetter):.
 9.No it won't, setting isGamePlaying to false will not change anything since the board is full anyway and will ask to play again 
 10.It will keep looping till the boolean varible gets set to false.
